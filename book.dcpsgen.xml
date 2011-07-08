@@ -15,5 +15,611 @@
 </bookinfo>
 <preface>
 <title></title>
+<simpara>Twenty years ago, Guido van Rossum was hard at work on the first release of Python. A lot has changed in those twenty years. Many of the programming languages that were contemporaries of Python have started showing their age. Meanwhile there have been no shortages of new programming languages. However, Python continues to hold up well. Its emphasis on clean syntax and its melding of object-oriented and functional programming elements put it years ahead of the other popular languages from the '90s.</simpara>
+<simpara>The story of Python is not just about it being ahead of its time in terms of syntax and features. It is also about its open development and the community around it. Its value as a scripting language is well known, and it ships with many operating systems. For years Python has been one of the P’s in the LAMP stack used for numerous web applications. Indeed Python’s popularity with web developers has lead to a multitude of web application frameworks written in Python: Django, TurboGears, Pylons, CherryPy, etc.</simpara>
+<simpara>Technology moves fast as always, but Python remains on the cutting edge. NoSQL data stores have become increasingly popular, and you can find first class support for using Python with any of these technologies. This is just further evidence of the continued popularity of Python and the vibrant community around it. This bibliography contains a wide selection of books about Python. These range from various introductory to advanced books, to many books on more specific topics in Python. Of course, web development is covered, but you might be surprised to see the wide variety of other types of development that are done using Python.</simpara>
+<simpara>Whether you are working on machine learning or just hacking in your spare time, Python&#8217;s got something to offer for you.</simpara>
 </preface>
+<chapter id="_beginning_python_development">
+<title>Beginning Python Development</title>
+<sect1 id="_learning_python_fourth_edition">
+<title>Learning Python, Fourth Edition</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Mark Lutz</emphasis>
+<emphasis>ISBN: 9780596805395</emphasis>
+<emphasis>September 2009</emphasis>
+<emphasis>$64.99 US</emphasis>
+<emphasis>1216 pages</emphasis></simpara>
+<simpara>Once you&#8217;ve come to grips with the core Python language, learning how to build Python applications presents a far more interesting challenge. Many critics consider this classic book, now updated for Python 3.x, to be the industry standard tutorial for Python application programming. With clear and concise explanations of Python syntax and programming techniques, and numerous examples that illustrate both correct usage and common idioms, Programming Python shows you the right way to code with Python.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780596805395?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_head_first_python">
+<title>Head First Python</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Paul Barry</emphasis>
+<emphasis>ISBN: 9781449397524</emphasis>
+<emphasis>November 2010</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>496 pages</emphasis></simpara>
+<simpara>Add Python to your programming skills and have some fun at the same time. Head First Python takes you beyond typical how-to manuals with an engaging visual format that includes images, puzzles, stories, and quizzes that are proven to stimulate learning and retention. You&#8217;ll not only learn how Python differs from other programming languages and how it&#8217;s similar, you&#8217;ll learn how to be a great programmer.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781449397524?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_programming_for_the_absolute_beginner_third_edition">
+<title>Python Programming for the Absolute Beginner, Third Edition</title>
+<simpara><emphasis>Course Technology PTR</emphasis>
+<emphasis>By Michael Dawson</emphasis>
+<emphasis>ISBN: 9781435455009</emphasis>
+<emphasis>December 2009</emphasis>
+<emphasis>$34.99 US</emphasis>
+<emphasis>479 pages</emphasis></simpara>
+<simpara>If you are new to programming with Python and are looking for a solid introduction, this is the book for you. Developed by computer science instructors, this book teaches the principles of programming through simple game creation. You will acquire the skills that you need for programming practical Python applications, and will learn how these skills can be put to use in real-world scenarios. At the end of each chapter, you will find a complete game that demonstrates the key ideas in the chapter, a summary of the chapter, and a set of challenges that tests your newfound knowledge. By the time you finish this book, you&#8217;ll be well versed in Python and you&#8217;ll be able to apply the basic programming principles you&#8217;ve learned to the next programming language you tackle.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781435455009?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_the_quick_python_book_second_edition">
+<title>The Quick Python Book, Second Edition</title>
+<simpara><emphasis>Manning Publications</emphasis>
+<emphasis>By Vern Ceder</emphasis>
+<emphasis>ISBN: 9781935182207</emphasis>
+<emphasis>January 2010</emphasis>
+<emphasis>$39.95 US</emphasis>
+<emphasis>400 pages</emphasis></simpara>
+<simpara>This book is a clear and concise introduction to Python 3, aimed at programmers new to Python. The book begins with basic but useful programs that teach the core features of syntax, control flow, and data structures. It then moves to larger applications involving code management, object-oriented programming, web development, and converting code from earlier versions of Python.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781935182207?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_beginning_python_using_python_2_6_and_python_3_1">
+<title>Beginning Python: Using Python 2.6 and Python 3.1</title>
+<simpara><emphasis>Wrox</emphasis>
+<emphasis>By James Payne</emphasis>
+<emphasis>ISBN: 9780470414637</emphasis>
+<emphasis>February 2010</emphasis>
+<emphasis>$39.99 U.S.</emphasis>
+<emphasis>622 pages</emphasis></simpara>
+<simpara>This book enables you to quickly create robust, reliable, and reusable Python applications by teaching the basics so you can develop Web and scientific applications, incorporate databases, and master systems tasks on various operating systems, including Linux, MAC OS, and Windows. You&#8217;ll get a comprehensive tutorial that guides you from writing simple, basic Python scripts all the way through complex concepts, and also features a reference of the standard modules with examples illustrating how to implement features in the various modules.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780470414637?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_programming_in_python_3_a_complete_introduction_to_the_python_language_second_edition">
+<title>Programming in Python 3: A Complete Introduction to the Python Language, Second Edition</title>
+<simpara><emphasis>Addison-Wesley Professional</emphasis>
+<emphasis>By Mark Summerfield</emphasis>
+<emphasis>ISBN: 9780321699909</emphasis>
+<emphasis>November 2009</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>648 pages</emphasis></simpara>
+<simpara>Python 3 is more powerful, convenient, consistent, and expressive than previous versions. Follow along as Mark Summerfield demonstrates how to write code that takes full advantage of Python 3’s features and idioms. This book brings together all the knowledge you need to write any program, use any standard or third-party Python 3 library, and create new library modules of your own. Summerfield covers the eight key elements of Python required to write robust, high-performance programs. Building on these core elements, he introduces new topics designed to strengthen your practical expertise–one concept and hands-on example at a time. Coverage includes developing in Python using procedural, object-oriented, and functional programming paradigms. This book serves as both tutorial and language reference and it is accompanied by extensive downloadable example code–all of it tested with Python 3 on Windows, Linux, and Mac OS X.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780321699909?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_head_first_programming">
+<title>Head First Programming</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By David Griffiths and Paul Barry</emphasis>
+<emphasis>ISBN: 9780596802370</emphasis>
+<emphasis>December 2009</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>448 pages</emphasis></simpara>
+<simpara>Head First Programming introduces the core concepts of writing computer programs&#8201;&#8212;&#8201;variables, decisions, loops, functions, and objects&#8201;&#8212;&#8201;which apply regardless of the programming language. This book offers concrete examples and exercises in the dynamic and versatile Python language to demonstrate and reinforce these concepts. Learn the basic tools to start writing the programs that interest you, and get a better understanding of what software can (and cannot) do. When you&#8217;re finished, you&#8217;ll have the necessary foundation to learn any programming language or tackle any software project you choose. This book uses the latest research in cognitive science and learning theory to craft a multi-sensory learning experience, using a visually rich format designed for the way your brain works, not a text-heavy approach that puts you to sleep.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780596802370?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_fundamentals_livelessons_video_training">
+<title>Python Fundamentals LiveLessons (Video Training)</title>
+<simpara><emphasis>Prentice Hall</emphasis>
+<emphasis>By Wesley Chun</emphasis>
+<emphasis>ISBN: 9780137021130</emphasis>
+<emphasis>December 2008</emphasis></simpara>
+<simpara>For any student or professional interested in learning the fundamentals of Python you can take advantage of this one-of-a-kind video package, created by leading Python developer and trainer Wesley Chun. He helps you learn Python quickly and comprehensively, so that you can immediately succeed with any Python project. Just click and watch, and one step at a time, you will master Python fundamentals. If you already have Python experience, these videos will help further develop your skills.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780137021130?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_ironpython_in_action">
+<title>IronPython in Action</title>
+<simpara><emphasis>Manning Publications</emphasis>
+<emphasis>By Michael Foord and Christian Muirhead</emphasis>
+<emphasis>ISBN: 9781933988337</emphasis>
+<emphasis>March 2009</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>480 pages</emphasis></simpara>
+<simpara>IronPython is ready for real-world use, blending the simplicity, elegance, and dynamism of Python with the power of the .NET framework. This book approaches IronPython as a first class .NET language, fully integrated with  the .NET environment, Visual Studio, and even the open-source Mono implementation. You&#8217;ll learn how IronPython can be embedded as a ready-made scripting language into C# and VB.NET programs, used for writing full applications or for web development with ASP. Even better, you&#8217;ll see how IronPython works in Silverlight for client-side web programming. This book explores the world of functional programming, live introspection, dynamic typing and duck typing,  and metaprogramming. The book also shows how to extend IronPython with C# and VB.NET applications and uses IronPython with .NET 3.0 and Powershell.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781933988337?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_programming_in_context">
+<title>Python Programming in Context</title>
+<simpara><emphasis>Jones &amp; Bartlett Learning</emphasis>
+<emphasis>By Bradley Miller &amp; David Ranum</emphasis>
+<emphasis>ISBN: 9780763746025</emphasis>
+<emphasis>September 2008</emphasis>
+<emphasis>$117.95 US</emphasis>
+<emphasis>492 pages</emphasis></simpara>
+<simpara>A user-friendly, object-oriented language, Python is quickly becoming the favorite introductory programming language among students and instructors. Many find Python to be a more lucid language than Java but with much of the functionality and therefore the ideal first language for those entering the world of Computer Science. This book is a clear, accessible introduction to the fundamental programming and problem solving concepts necessary for students at this level. The authors carefully build upon the many important computer science concepts and problem solving techniques throughout the text and offer relevant, real-world examples and exercises to reinforce key material. Programming skills throughout the text are linked to applied areas such as Image Processing, Cryptography, Astronomy, Music, the Internet, and Bioinformatics, giving students a well rounded look of its capabilities.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780763746025?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_the_definitive_guide_to_jython_python_for_the_java_platform">
+<title>The Definitive Guide to Jython: Python for the Java Platform</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Josh Juneau, Jim Baker, Victor Ng, Leo Soto, and Frank Wierzbicki</emphasis>
+<emphasis>ISBN: 9781430225270</emphasis>
+<emphasis>March 2010</emphasis>
+<emphasis>$54.99 US</emphasis>
+<emphasis>544 pages</emphasis></simpara>
+<simpara>This book provides a general overview of the Jython language itself, but it also includes intermediate and advanced topics regarding database, web, and GUI applications; Web services/SOA; and integration, concurrency, and parallelism, to name a few.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781430225270?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_visual_quickstart_guide_second_edition">
+<title>Python: Visual QuickStart Guide, Second Edition</title>
+<simpara><emphasis>Peachpit Press</emphasis>
+<emphasis>By Toby Donaldson</emphasis>
+<emphasis>ISBN: 9780321590985</emphasis>
+<emphasis>December 2008</emphasis>
+<emphasis>$24.99 US</emphasis>
+<emphasis>192 pages</emphasis></simpara>
+<simpara>Python is a remarkably powerful dynamic programming language that is used in a wide variety of application domains such as Web, database access, desktop GUIs, game and software development, and network programming. Fans of Python use the phrase "batteries included" to describe the standard library, which covers everything from asynchronous processing to zip files. The language itself is a flexible powerhouse that can handle practically any application domain. This task-based tutorial is for students with no programming experience as well as those programmers who have some experience with the programming language and now want to take their skills to the next level. The book walks a reader through all the fundamentals and then moves on to more advanced topics. It&#8217;s a complete end-to-end tutorial and reference.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780321590985?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+</chapter>
+<chapter id="_intermediate_advanced_python_development">
+<title>Intermediate-Advanced Python Development</title>
+<sect1 id="_programming_python_fourth_edition">
+<title>Programming Python, Fourth Edition</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Mark Lutz</emphasis>
+<emphasis>ISBN: 9781449398712</emphasis>
+<emphasis>January 2011</emphasis>
+<emphasis>$64.99 US</emphasis>
+<emphasis>1632 pages</emphasis></simpara>
+<simpara>Once you&#8217;ve come to grips with the core Python language, learning how to build Python applications presents a far more interesting challenge. Many critics consider this classic book, now updated for Python 3.x, to be the industry standard tutorial for Python application programming. With clear and concise explanations of Python syntax and programming techniques, and numerous examples that illustrate both correct usage and common idioms, this book shows you the right way to code with Python.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781449398712?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_essential_reference_fourth_edition">
+<title>Python Essential Reference, Fourth Edition</title>
+<simpara><emphasis>Addison-Wesley Professional</emphasis>
+<emphasis>By David M. Beazley</emphasis>
+<emphasis>ISBN: 9780768687040</emphasis>
+<emphasis>July 2009</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>744 pages</emphasis></simpara>
+<simpara>This book is the definitive reference guide to the Python programming language — the one authoritative handbook that reliably untangles and explains both the core Python language and the most essential parts of the Python library. Designed for the professional programmer, the book is concise, to the point, and highly accessible. It also includes detailed information on the Python library and many advanced subjects that is not available in either the official Python documentation or any other single reference source. Thoroughly updated to reflect the significant new programming language features and library modules that have been introduced in Python 2.6 and Python 3, this book is a guide for programmers who need to modernize existing Python code or who are planning an eventual migration to Python 3. Programmers starting a new Python project will find detailed coverage of contemporary Python programming idioms.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780768687040?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_pro_python">
+<title>Pro Python</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Marty Alchin</emphasis>
+<emphasis>ISBN: 9781430227571</emphasis>
+<emphasis>June 2010</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>361 pages</emphasis></simpara>
+<simpara>You&#8217;ve learned the basics of Python, but how do you take your skills to the next stage? Even if you know enough to be productive, there are a number of features that can take you to the next level in Python. This book explores concepts and features normally left to experimentation, allowing you to be even more productive and creative. Not only will this book help you to improve your code, it will also help you understand and interact with the many established Python communities, or even start your own. Learn how to write clean, innovative Python code that will do more with introspection and metaprogramming, taking your Python knowledge and skills to the next level.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781430227571?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_in_a_nutshell_second_edition">
+<title>Python in a Nutshell, Second Edition</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Alex Martelli</emphasis>
+<emphasis>ISBN: 9780596100469</emphasis>
+<emphasis>July 2006</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>742 pages</emphasis></simpara>
+<simpara>This book offers Python programmers one place to look when they need help remembering or deciphering the syntax of this open source language and its many powerful but scantily documented modules. This comprehensive reference guide makes it easy to look up the most frequently needed information&#8212;not just about the Python language itself, but also the most frequently used parts of the standard library and the most important third-party extensions. Revised and expanded for Python 2.5, this book now contains the gory details of Python&#8217;s new subprocess module and breaking news about Microsoft&#8217;s new IronPython project. This book provides a solid, no-nonsense quick reference to information that Python programmers rely on the most. This book will immediately earn its place in any Python programmer&#8217;s library.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780596100469?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_cookbook_second_edition">
+<title>Python Cookbook, Second Edition</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Alex Martelli, Anna Ravenscroft, &amp; David Ascher</emphasis>
+<emphasis>ISBN: 9780596007973</emphasis>
+<emphasis>March 2005</emphasis>
+<emphasis>$49.95 US</emphasis>
+<emphasis>848 pages</emphasis></simpara>
+<simpara>Portable, powerful, and a breeze to use, Python is the popular open source object-oriented programming language used for both standalone programs and scripting applications. Updated for Python 2.4, this book offers a wealth of useful code for all Python programmers, not just advanced practitioners. This edition provides solutions to problems that Python programmers face everyday. It now includes over 200 recipes that range from simple tasks, such as working with dictionaries and list comprehensions, to complex tasks, such as monitoring a network and building a templating system. This revised version also includes new chapters on topics such as time, money, and metaprogramming.  With scores of practical examples and pertinent background information, this is the one source you need if you&#8217;re looking to build efficient, flexible, scalable, and well-integrated Python systems.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780596007973?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_algorithms_mastering_basic_algorithms_in_the_python_language">
+<title>Python Algorithms: Mastering Basic Algorithms in the Python Language</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Magnus Lie Hetland</emphasis>
+<emphasis>ISBN: 9781430232377</emphasis>
+<emphasis>November 2010</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>332 pages</emphasis></simpara>
+<simpara>This book explains the Python approach to algorithm analysis and design. It is sharply focused on classical algorithms, but it also gives a solid understanding of fundamental algorithmic problem-solving techniques. The book deals with some of the most important and challenging areas of programming and computer science, but in a highly pedagogic and readable manner. ell-known algorithms and data structures that are built into the Python language are explained, and the user is shown how to implement and evaluate others himself.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781430232377?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_data_structures_and_algorithms_using_python">
+<title>Data Structures and Algorithms Using Python</title>
+<simpara><emphasis>John Wiley &amp; Sons</emphasis>
+<emphasis>By Rance D. Necaise</emphasis>
+<emphasis>ISBN: 9780470618295</emphasis>
+<emphasis>December 2010</emphasis>
+<emphasis>$92.95 US</emphasis>
+<emphasis>538 pages</emphasis></simpara>
+<simpara>More and more programmers are turning to Python and this book will give them the understanding they need. This book introduces the basic array structure and explores the fundamentals of implementing and using multi-dimensional arrays. The underlying mechanisms of many of Python&#8217;s built-in data structures and constructs are covered. A number of ADTs and applications are discussed as threads throughout the book to allow for multiple implementations as new data structures are introduced. Real-world applications of the various chapter topics are also presented. This gives programmers complete coverage of abstraction and the basic data structures and algorithms in the Python language.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780470618295?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_core_python_programming_second_edition">
+<title>Core Python Programming, Second Edition</title>
+<simpara><emphasis>Prentice Hall</emphasis>
+<emphasis>By Wesley J Chun</emphasis>
+<emphasis>ISBN: 9780132269933</emphasis>
+<emphasis>September 2006</emphasis>
+<emphasis>$59.99 US</emphasis>
+<emphasis>1136 pages</emphasis></simpara>
+<simpara>Follow along as leading Python developer and trainer Wesley Chun helps you learn Python quickly and comprehensively so that you can succeed with any Python project. Using practical code examples, Chun introduces all the fundamentals of Python programming: syntax, objects and memory management, data types, operators, files and I/O, functions, generators, error handling and exceptions, loops, iterators, functional programming, and even object-oriented programming. After you learn the core fundamentals of Python, he shows you what you can do with your new skills, delving into advanced topics, such as regular expressions, networking programming with sockets, multithreading, GUI development, Web/CGI programming and extending Python in C. This edition reflects major enhancements in the Python 2.x series, including 2.6 and tips for migrating to 3. It contains new chapters on database and Internet client programming, plus coverage of many new topics, including new-style classes, Java and Jython, Microsoft Office (Win32 COM Client) programming, and much more.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780132269933?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_expert_python_programming_learn_best_practices_to_designing_coding_and_distributing_your_python_software">
+<title>Expert Python Programming: Learn best practices to designing, coding, and distributing your Python software</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Tarek Ziadé</emphasis>
+<emphasis>ISBN: 9781847194947</emphasis>
+<emphasis>September 2008</emphasis>
+<emphasis>$40.49 US</emphasis>
+<emphasis>376 pages</emphasis></simpara>
+<simpara>This book shows how Python development should be done with best practices and expert design tips. It is for Python developers who are already building applications, but want to build better ones by applying best practices and new development techniques to their projects. The reader is expected to have a sound background in Python programming.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781847194947?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_professional_ironpython">
+<title>Professional IronPython</title>
+<simpara><emphasis>Wrox</emphasis>
+<emphasis>By John Paul Mueller</emphasis>
+<emphasis>ISBN: 9780470548592</emphasis>
+<emphasis>April 2010</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>479 pages</emphasis></simpara>
+<simpara>This essential resource provides you with an in-depth understanding of IronPython. A brief introduction walks you through the installation, usage, and tools of IronPython and also explains what makes IronPython different from other programming languages. The coverage quickly moves on to explaining how to use and work with the IronPython language, and an in-depth look at its environment sheds light on how it can be stand alone or used with the .NET Framework. You&#8217;ll see how IronPython can be used to create either desktop or Web-based applications and you&#8217;ll witness how it interacts with other existing technologies and how to use IronPython with Mono. You&#8217;ll want to devour every topic covered in Professional IronPython so you can get started working with this powerful programming language today.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780470548592?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_pocket_reference_4th_edition">
+<title>Python Pocket Reference, 4th Edition</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Mark Lutz</emphasis>
+<emphasis>ISBN: 9780596158088</emphasis>
+<emphasis>August 2009</emphasis>
+<emphasis>$14.99 US</emphasis>
+<emphasis>208 pages</emphasis></simpara>
+<simpara>This is the book to reach for when you&#8217;re coding on the fly and need an answer now. It&#8217;s an easy-to-use reference to the core Python language, with descriptions of commonly used modules and toolkits, and a guide to recent changes, new features, and upgraded built-ins&#8201;&#8212;&#8201;all updated to cover Python 3.x as well as version 2.6. Written by Mark Lutz, who is widely recognized as today&#8217;s leading Python trainer, this book is the perfect companion to O&#8217;Reilly&#8217;s classic Python tutorials: Learning Python and Programming Python.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780596802011?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_create_modify_reuse">
+<title>Python: Create-Modify-Reuse</title>
+<simpara><emphasis>Wrox</emphasis>
+<emphasis>By Jim Knowlton</emphasis>
+<emphasis>ISBN: 9780470259320</emphasis>
+<emphasis>July 2008</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>287 pages</emphasis></simpara>
+<simpara>This book is designed to show developers how to use Python to accomplish real-world tasks in a more efficient way. The book&#8217;s main purpose is not to thoroughly cover the Python language, but rather to show how you can use Python to create robust, real-world applications. Along the way, you will learn to create useful, efficient scripts that are easy to maintain and enhance. It is well-suited for developers who like to "learn by doing," rather than exploring a language feature by feature. To get the most out of the book, you should understand basic programming principles. This book will help you have fun with Python and build useful applications, all—unlike my experience with building a deck—without sore thumbs.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780470259320?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_phrasebook_essential_code_and_commands">
+<title>Python Phrasebook: Essential Code and Commands</title>
+<simpara><emphasis>Sams</emphasis>
+<emphasis>By Brad Dayley</emphasis>
+<emphasis>ISBN: 9780672329104</emphasis>
+<emphasis>November 2006</emphasis>
+<emphasis>$16.99 US</emphasis>
+<emphasis>288 pages</emphasis></simpara>
+<simpara>Follow along and learn the code phrases you need to quickly and effectively complete your programming projects in Python. Given its concise nature, it is easy to carry and use, so you can ditch all those bulky books for one portable guide. The book is packed with more than 100 customizable code snippets—so you can create functional Python code for just about any situation. The author has co-developed an advanced debugging course used to train engineers and customers and is the co-author of several Novell Press books.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780672329104?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_core_python_applications_programming_third_edition">
+<title>Core Python Applications Programming, Third Edition</title>
+<simpara><emphasis>Prentice Hall</emphasis>
+<emphasis>By Wesley Chun</emphasis>
+<emphasis>ISBN: 9780132779371</emphasis>
+<emphasis>January 2012</emphasis>
+<emphasis>504 pages</emphasis></simpara>
+<simpara>Follow along as leading software engineer and professional trainer Wesley Chun teaches you how to expand your Python skills and go beyond the language and its syntax. Each chapter provides a quick dive or high-level intro into a variety of specific areas of application development. This book delivers hundreds of industrial-strength code snippets and examples (in Python 2 and 3), all targeted at professional developers, which contain not only a high-level intro but also provide real-world insights for developing applications in Python. By using a relaxed, conversational, and fun writing style, the author is able to explain complex programming concepts in ways that are easy to understand. If you&#8217;re a Python developer, this is an invaluable addition to your collection!</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780132779371?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+</chapter>
+<chapter id="_python_for_the_web">
+<title>Python for the Web</title>
+<sect1 id="_python_web_development_with_django">
+<title>Python Web Development with Django</title>
+<simpara><emphasis>Addison-Wesley Professional</emphasis>
+<emphasis>By Jeff Forcier, Paul Bissex &amp; Wesley Chun</emphasis>
+<emphasis>ISBN: 9780321564177</emphasis>
+<emphasis>November 2008</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>408 pages</emphasis></simpara>
+<simpara>Using the simple, robust, Python-based Django framework, you can build powerful Web solutions with remarkably few lines of code. This book covers all the techniques, tools, and concepts you need to make the most of Django 1.0. The authors teach Django through in-depth explanations, plus provide extensive sample code supported with images and line-by-line explanations. You’ll discover how Django leverages Python’s development speed and flexibility to help you solve a wide spectrum of Web development problems and learn Django best practices covered nowhere else. You’ll build your first Django application in just minutes and deepen your real-world skills through start-to-finish application projects.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780321564177?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_mysql_for_python">
+<title>MySQL for Python</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Albert Lukaszewski</emphasis>
+<emphasis>ISBN: 9781849510189</emphasis>
+<emphasis>July 2010</emphasis>
+<emphasis>$44.99 US</emphasis>
+<emphasis>440 pages</emphasis></simpara>
+<simpara>Integrate the flexibility of Python and the power of MySQL to boost the productivity of your Python applications. With the help of this book, you will learn to implement the outstanding features of Python&#8217;s MySQL library to their full potential, removing the processing burden from your programs. This book is packed with step-by-step examples to manage your MySQL database efficiently through Python. Learn how to employ Python with MySQL to power your websites and desktop applications and apply this knowledge to real-world problems instead of hypothetical scenarios.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781849510189?cid=1107-bibilio-python-link">Read in on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_web_standards_programmer_8217_s_reference_html_css_javascript_perl_python_and_php">
+<title>Web Standards Programmer&#8217;s Reference: HTML, CSS, JavaScript®, Perl, Python®, and PHP</title>
+<simpara><emphasis>Wrox</emphasis>
+<emphasis>By Steven M. Schafer</emphasis>
+<emphasis>ISBN: 9780764588204</emphasis>
+<emphasis>August 2005</emphasis>
+<emphasis>$41.95</emphasis>
+<emphasis>840 pages</emphasis></simpara>
+<simpara>This invaluable resource offers tutorials and real-world examples as well as thorough language references for Web markup languages (HTML/XHTML and CSS), and popular scripting languages (JavaScript, Perl, and PHP). It examines the role of JavaScript, CGI (with examples in Perl and Python), and PHP on the Web and shows how to best use them all. The book even provides a valuable reference section on each technology that can be used for review and consultation.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780764588204?cid=1107-bibilio-python-link">Read in on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_programming_collective_intelligence">
+<title>Programming Collective Intelligence</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Toby Segaran</emphasis>
+<emphasis>ISBN: 9780596529321</emphasis>
+<emphasis>August 2007</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>368 pages</emphasis></simpara>
+<simpara>Want to tap the power behind search rankings, product recommendations, social bookmarking, and online matchmaking? This fascinating book demonstrates how you can build Web 2.0 applications to mine the enormous amount of data created by people on the Internet. With the sophisticated algorithms in this book, you can write smart programs to access interesting datasets from other web sites, collect data from users of your own applications, and analyze and understand the data once you&#8217;ve found it. Each algorithm is described clearly and concisely with code that can immediately be used on your web site, blog, Wiki, or specialized application. Each chapter includes exercises for extending the algorithms to make them more powerful. Go beyond simple database-backed applications and put the wealth of Internet data to work for you.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780596529321?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_rapid_web_applications_with_turbogears_using_python_to_create_ajax_powered_sites">
+<title>Rapid Web Applications with TurboGears: Using Python to Create Ajax-Powered Sites</title>
+<simpara><emphasis>Prentice Hall</emphasis>
+<emphasis>By Mark Ramm, Kevin Dangoor, &amp; Gigi Sayfan</emphasis>
+<emphasis>ISBN: 9780132433884</emphasis>
+<emphasis>November 2006</emphasis>
+<emphasis>$54.99 US</emphasis>
+<emphasis>504 pages</emphasis></simpara>
+<simpara>This book harnesses the power of Python to provide a dynamic and easy-to-use Web development framework that increases developer productivity and makes it easier to create dynamic, user-friendly, Ajax-enabled Web applications. This definitive guide is coauthored by Kevin Dangoor, the creator of TurboGears, and will help experienced Web developers get productive with TurboGears. You’ll quickly build your first TurboGears Web application—then extend it one step at a time, mastering the underlying libraries that make these enhancements possible. You will create a real-world application, by examining the code for “WhatWhat Status,” an open source project status tracking application. And, you’ll gain deep insight into the model, view, and controller technologies TurboGears is built upon. This knowledge will help you build robust and capable Python applications.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780132433884?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_programming_the_semantic_web">
+<title>Programming the Semantic Web</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Toby Segaran, Colin Evans &amp; Jamie Taylor</emphasis>
+<emphasis>ISBN: 9780596153816</emphasis>
+<emphasis>July 2009</emphasis>
+<emphasis>$39.99 US</emphasis>
+<emphasis>304 pages</emphasis></simpara>
+<simpara>With this book, the promise of the Semantic Web&#8201;&#8212;&#8201;in which machines can find, share, and combine data on the Web&#8201;&#8212;&#8201;is not just a technical possibility, but a practical reality. The book demonstrates ways to implement semantic web applications, using current and emerging standards and technologies. You&#8217;ll learn how to incorporate existing data sources into semantically aware applications and publish rich semantic data. Each chapter walks you through a single piece of semantic technology and explains how you can use it to solve real problems. Whether you&#8217;re writing a simple mashup or maintaining a high-performance enterprise solution, this book provides you with a standard, flexible approach for integrating and future-proofing systems and data.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780596153816?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_spring_python_1_1">
+<title>Spring Python 1.1</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Greg Lee Turnquist</emphasis>
+<emphasis>ISBN: 9781849510660</emphasis>
+<emphasis>May 2010</emphasis>
+<emphasis>$40.49 US</emphasis>
+<emphasis>264 pages]</emphasis></simpara>
+<simpara>Create powerful and versatile Spring Python applications using pragmatic libraries and useful abstractions with this book. You will learn to maximize the use of Spring features in Python and develop impressive Spring Python applications. You will also explore the versatility of Spring Python by integrating it with frameworks, libraries, and tools, thus discovering the non-intrusive Spring way of wiring together Python components. Packed with hands-on-examples, case studies, and clear explanations, this book provides an introduction to Spring Python and steadily takes you towards the advanced features that this integration has to offer.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781849510660?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+</chapter>
+<chapter id="_topics_for_python">
+<title>Topics for Python</title>
+<sect1 id="_foundations_of_python_network_programming_the_comprehensive_guide_to_building_network_applications_with_python_second_edition">
+<title>Foundations of Python Network Programming: The comprehensive guide to building network applications with Python, Second Edition</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Brandon Rhodes &amp; John Goerzen</emphasis>
+<emphasis>ISBN: 9781430230038</emphasis>
+<emphasis>December 2010</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>365 pages</emphasis></simpara>
+<simpara>This book gives you everything you need to know about network programming using Python 3, the latest version of the Python language. It will benefit both scripters and serious application developers who want a feature-rich, yet simple language. Fully updated, this second edition includes all the new developments in network programming such as WSGI, FastCGI, and asynchronous communication. This book covers multitasking network servers using several models, including forking, threading, and non-blocking sockets. Extensive examples throughout the book demonstrate important concepts and practices, and provide a cadre of fully-functioning stand alone programs. Readers may even use the examples included as building blocks to create their own software.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781430230038?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_rapid_gui_programming_with_python_and_qt_the_definitive_guide_to_pyqt_programming">
+<title>Rapid GUI Programming with Python and Qt: The Definitive Guide to PyQt Programming</title>
+<simpara><emphasis>Prentice Hall</emphasis>
+<emphasis>By Mark Summerfield</emphasis>
+<emphasis>ISBN: 9780132354189</emphasis>
+<emphasis>November 2007</emphasis>
+<emphasis>$54.99 US</emphasis>
+<emphasis>648 pages</emphasis></simpara>
+<simpara>Whether you&#8217;re building GUI prototypes or full-fledged cross-platform GUI applications with a native look-and-feel, PyQt 4 is your fastest, easiest, most powerful solution. Qt expert Mark Summerfield has written the definitive best-practice guide to PyQt 4 development. With this book you&#8217;ll learn how to build efficient GUI applications that run on all major operating systems, including Windows, Mac OS X, Linux, and many versions of Unix, using the same source code for all of them. Summerfield systematically introduces every core GUI development technique: from dialogs and windows to data handling; from events to printing; and more. Through the book&#8217;s realistic examples you&#8217;ll discover a completely new PyQt 4-based programming approach, as well as coverage of many new topics, from PyQt 4&#8217;s rich text engine to advanced model/view and graphics/view programming.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780132354189?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_for_unix_and_linux_system_administration">
+<title>Python for Unix and Linux System Administration</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Noah Gift &amp; Jeremy M. Jones</emphasis>
+<emphasis>ISBN: 9780596515829</emphasis>
+<emphasis>August 2008</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>464 pages</emphasis></simpara>
+<simpara>Python is an ideal language for solving problems, especially in Linux and Unix networks. With this pragmatic book, administrators can review various tasks that often occur in the management of these systems, and learn how Python can provide a more efficient and less painful way to handle them. Each chapter in the book presents a particular administrative issue, such as concurrency or data backup, and presents Python solutions through hands-on examples. Once you finish this book, you&#8217;ll be able to develop your own set of command-line utilities with Python to tackle a wide range of problems.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780596515829?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_real_world_instrumentation_with_python">
+<title>Real World Instrumentation with Python</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By John M. Hughes</emphasis>
+<emphasis>ISBN: 9780596809591</emphasis>
+<emphasis>December 2010</emphasis>
+<emphasis>$54.99 US</emphasis>
+<emphasis>624 pages</emphasis></simpara>
+<simpara>This book shows you how to develop applications instrumentation software with Python that lets you monitor or control devices in the physical world. Whether you need to acquire data from a hardware device or automate its functions, you get step-by-step instructions, clear working examples, hands-on tips and hints for interfacing a PC to instruments and devices, along with advice to help you avoid common pitfalls.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780596809591?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_natural_language_processing_with_python">
+<title>Natural Language Processing with Python</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Steven Bird, Ewan Klein &amp; Edward Loper</emphasis>
+<emphasis>ISBN: 9780596803346</emphasis>
+<emphasis>June 2009</emphasis>
+<emphasis>$44.99</emphasis>
+<emphasis>512 pages</emphasis></simpara>
+<simpara>This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation. With it, you&#8217;ll learn how to write Python programs that work with large collections of unstructured text. You&#8217;ll access richly annotated datasets using a comprehensive range of linguistic data structures, and you&#8217;ll understand the main algorithms for analyzing the content and structure of written communication. If you&#8217;re interested in developing web applications, analyzing multilingual news sources, or documenting endangered languages&#8201;&#8212;&#8201;or if you&#8217;re simply curious to have a programmer&#8217;s perspective on how human language works&#8201;&#8212;&#8201;you&#8217;ll find the book both fascinating and useful.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780596803346?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_testing">
+<title>Python Testing</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Daniel Arbuckle</emphasis>
+<emphasis>ISBN: 9781847198846</emphasis>
+<emphasis>January 2010</emphasis>
+<emphasis>$35.99 US</emphasis>
+<emphasis>256 pages</emphasis></simpara>
+<simpara>An easy and convenient approach to testing your powerful Python projects, this book covers everything you need to know when testing your code in Python. Learn to write, execute, and understand the results of tests in the unit test framework, through the use of step-by-step examples and clear explanations. With the right techniques and tools, testing can become a simple and gratifying part of the development process. With this helpful guide – from an expert – in your hand, testing will not be a tiresome topic for you anymore.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781847198846?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_the_python_standard_library_by_example">
+<title>The Python Standard Library by Example</title>
+<simpara><emphasis>Addison-Wesley Professional</emphasis>
+<emphasis>By Doug Hellmann</emphasis>
+<emphasis>ISBN: 9780132778633</emphasis>
+<emphasis>June 2011</emphasis>
+<emphasis>$59.99 US</emphasis>
+<emphasis>1344 pages</emphasis></simpara>
+<simpara>One of Python’s most popular features is the “standard library” of modules that serve as the foundation of an application and gives the language its motto: “Batteries Included.” This book provides example programs for over 100 of the most commonly used standard library modules, explaining their purpose and demonstrating how to use them in your daily programming tasks. The features of each module are examined in order, building from basic to complex, or following the order you will need to use them in a real application. The examples are presented as complete working programs, along with their output, leaving no question about how to interpret this reference guide.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780132778633?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_matplotlib_for_python_developers">
+<title>Matplotlib for Python Developers</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Sandro Tosi</emphasis>
+<emphasis>ISBN: 9781847197900</emphasis>
+<emphasis>November 2009</emphasis>
+<emphasis>$40.49 US</emphasis>
+<emphasis>308 pages</emphasis></simpara>
+<simpara>Providing appealing plots and graphs is an essential part of various fields such as scientific research and data analysis. Matplotlib, the Python 2D plotting library, is used to produce publication-quality figures in a variety of hardcopy formats and interactive environments across platforms. This book explains creating various plots, histograms, power spectra, bar charts, error charts, scatter-plots and much more using the powerful Matplotlib library to get impressive out-of-the-box results. You will discover how easy it is to produce professional-quality plots when you have this book in hand.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781847197900?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_wxpython_2_8_application_development_cookbook">
+<title>wxPython 2.8 Application Development Cookbook</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Cody Precord</emphasis>
+<emphasis>ISBN: 9781849511780</emphasis>
+<emphasis>December 2010</emphasis>
+<emphasis>$35.99 US</emphasis>
+<emphasis>308 pages</emphasis></simpara>
+<simpara>Currently there are a handful of options available for cross platform frameworks to develop desktop applications in Python. wxPython is one such cross- platform GUI  toolkit for the Python programming language. It allows Python programmers to create programs with a complete, highly functional graphical user interface, simply and easily. This cookbook provides you with over 80 of the latest recipes to quickly create robust, reliable, and reusable wxPython applications. These recipes will guide you from writing simple, basic wxPython scripts all the way through complex concepts, and also feature various design approaches and techniques in wxPython. This book will help you create robust, reliable, and reusable wxPython applications.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781849511780?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_gray_hat_python_1st_edition">
+<title>Gray Hat Python, 1st Edition</title>
+<simpara><emphasis>No Starch Press</emphasis>
+<emphasis>By Justin Seitz</emphasis>
+<emphasis>ISBN: 9781593271923</emphasis>
+<emphasis>April 2009</emphasis>
+<emphasis>$39.95 US</emphasis>
+<emphasis>216 pages</emphasis></simpara>
+<simpara>Python is fast becoming the programming language of choice for hackers, reverse engineers, and software testers because it&#8217;s easy to write quickly, and it has the low-level support and libraries that make hackers happy. But until now, there has been no real manual on how to use Python for a variety of hacking tasks. You had to dig through forum posts and man pages, endlessly tweaking your own code to get everything working. Not anymore. This book explains the concepts behind hacking tools and techniques like debuggers, trojans, fuzzers, and emulators. But author Justin Seitz goes beyond theory, showing you how to harness existing Python-based security tools - and how to build your own when the pre-built ones won&#8217;t cut it. The world&#8217;s best hackers are using Python to do their handiwork. Shouldn&#8217;t you?</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781593271923?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_pro_python_system_administration">
+<title>Pro Python System Administration</title>
+<simpara><emphasis>Apress</emphasis>
+<emphasis>By Rytis Sileika</emphasis>
+<emphasis>ISBN: 9781430226055</emphasis>
+<emphasis>July 2010</emphasis>
+<emphasis>$49.99 US</emphasis>
+<emphasis>416 pages</emphasis></simpara>
+<simpara>As time goes on, system administrators are presented with increasingly complicated challenges. System administrators are gradually replacing their tools with more advanced and flexible ones. One of the choices is Python. Structurally, Python is a modern, high-level language with a very clean syntax. Python comes with many built-in libraries that can make automation tasks easier. It also has an extensive set of third-party libraries and a very active development community. This flexibility makes Python a good choice for a wide variety of tasks, from prototyping science applications to system maintenance and administration jobs. This book explains and shows how to apply Python scripting in practice. In this book, you will find several projects in the categories of network administration, web server administration, and monitoring and database management.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781430226055?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_bioinformatics_programming_using_python">
+<title>Bioinformatics Programming Using Python</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Mitchell L Model</emphasis>
+<emphasis>ISBN: 9780596154509</emphasis>
+<emphasis>December 2009</emphasis>
+<emphasis>$59.99 US</emphasis>
+<emphasis>528 pages</emphasis></simpara>
+<simpara>Powerful, flexible, and easy to use, Python is an ideal language for building software tools and applications for life science research and development. This unique book shows you how to program with Python, using code examples taken directly from bioinformatics. In a short time, you&#8217;ll be using sophisticated techniques and Python modules that are particularly effective for bioinformatics programming. This book is perfect for anyone involved with bioinformatics&#8201;&#8212;&#8201;researchers, support staff, students, and software developers interested in writing bioinformatics applications. You&#8217;ll find it useful whether you already use Python, write code in another language, or have no programming experience at all. It&#8217;s an excellent self-instruction tool, as well as a handy reference when facing the challenges of real-life programming tasks.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780596804725?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_for_bioinformatics">
+<title>Python for Bioinformatics</title>
+<simpara><emphasis>Jones &amp; Bartlett Learning</emphasis>
+<emphasis>By Jason Kinser</emphasis>
+<emphasis>ISBN: 9780763751869</emphasis>
+<emphasis>June 2008</emphasis>
+<emphasis>$82.95 US</emphasis>
+<emphasis>417 pages</emphasis></simpara>
+<simpara>Bioinformatics is a growing field that attracts researchers from many different backgrounds who are unfamiliar with the algorithms commonly used in the field. This book provides a clear introduction to the Python programming language and instructs beginners on the development of simple programming exercises. Ideal for those with some knowledge of computer programming languages, this book emphasizes Python syntax and methodologies. Follow along and learn about the Python tools typically used in bioinformatics including clustering, associative memories, and mathematical analysis techniques, and how these tools are implemented through numerous applications.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780763751869?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_text_processing_with_nltk_2_0_cookbook">
+<title>Python Text Processing with NLTK 2.0 Cookbook</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Jacob Perkins</emphasis>
+<emphasis>ISBN: 9781849513609</emphasis>
+<emphasis>November 2010</emphasis>
+<emphasis>$35.99 US</emphasis>
+<emphasis>272 pages</emphasis></simpara>
+<simpara>Natural Language Processing is used everywhere - in search engines, spell checkers, mobile phones, computer games - even your washing machine. Python&#8217;s Natural Language Toolkit (NTLK) suite of libraries has rapidly emerged as one of the most efficient tools for Natural Language Processing. This book is a handy and illustrative guide, which will walk you through all the Natural Language Processing techniques in a step–by-step manner. It will demystify the advanced features of text analysis and text mining using the comprehensive NTLK suite. This book cuts short the preamble and you dive right into the science of text processing with a practical hands-on approach.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781849513609?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_2_6_graphics_cookbook">
+<title>Python 2.6 Graphics Cookbook</title>
+<simpara><emphasis>Packt Publishing</emphasis>
+<emphasis>By Mike Ohlson de Fine</emphasis>
+<emphasis>ISBN: 9781849513845</emphasis>
+<emphasis>November 2010</emphasis>
+<emphasis>$40.49 US</emphasis>
+<emphasis>260 pages</emphasis></simpara>
+<simpara>Python is a great object-oriented and interactive programming language that lets you develop graphics, both static and animated, using built-in vector graphics functions that are provided with Python. This book is a collection of over 100 straightforward recipes and illustrative screenshots for creating and animating graphic objects using the Python language. This book makes the process of developing graphics interesting and entertaining by working in a graphic workspace without the burden of mastering complicated language definitions and opaque examples. Take a look at this quick reference for creating interesting graphic animations using Python programming.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781849513845?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_financial_modelling_in_python">
+<title>Financial Modelling in Python</title>
+<simpara><emphasis>John Wiley &amp; Sons</emphasis>
+<emphasis>By Shayne Fletcher &amp; Christopher Gardner</emphasis>
+<emphasis>ISBN: 9780470987841</emphasis>
+<emphasis>August 2009</emphasis>
+<emphasis>$130.00</emphasis>
+<emphasis>244 pages</emphasis></simpara>
+<simpara>This book is directed at both industry practitioners and students interested in designing a pricing and risk management framework for financial derivatives using the Python programming language. It is a practical book complete with working, tested code that guides the reader through the process of building a flexible pricing framework in Python. The pricing frameworks' loosely coupled fundamental components have been designed to facilitate the quick development of new models. Concrete applications to real-world pricing problems are also provided. Topics are introduced gradually, each building on the last. They include basic mathematical algorithms, common algorithms from numerical analysis, trade, market and event data model representations, lattice and simulation based pricing, and model development. The book also provides a host of information on practical technical topics such as C++/Python hybrid development (embedding and extending) and techniques for integrating Python based programs with Microsoft Excel.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780470987841?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_programming_on_win32">
+<title>Python Programming On Win32</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Mark Hammond &amp; Andy Robinson</emphasis>
+<emphasis>ISBN: 9781565926219</emphasis>
+<emphasis>January 2000</emphasis>
+<emphasis>$59.99 US</emphasis>
+<emphasis>672 pages</emphasis></simpara>
+<simpara>Despite Python&#8217;s increasing popularity on Windows, this book is the first to demonstrate how to use it as a serious Windows development and administration tool. While experienced Windows C++ programmers can find their way through the various objects, most people need some guidance, and this book is it. It addresses all of the basic technologies for common integration tasks on Windows, explaining both the Windows issues and the Python code you need to glue things together. This book is an excellent presentation of Windows application development and a solid illustration of how to use Python in the Windows environment.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9781565926219?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_python_amp_xml">
+<title>Python &amp; XML</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>By Christopher A. Jones &amp; Fred L. Drake Jr</emphasis>
+<emphasis>ISBN: 9780596001285</emphasis>
+<emphasis>December 2001</emphasis>
+<emphasis>$39.95 US</emphasis>
+<emphasis>384 pages</emphasis></simpara>
+<simpara>If you are a Python programmer who wants to incorporate XML into your skill set, this is the book for you. Python has attracted a wide variety of developers, who use it either as glue to connect critical programming tasks together, or as a complete cross-platform application development language. Yet, because it is object-oriented and has powerful text manipulation abilities, Python is an ideal language for manipulating XML. This book gives you a solid foundation for using these two languages together. Loaded with practical examples, this new volume highlights common application tasks, so that you can learn by doing. Whether you are using Python as an application language, or as an administrative or middleware scripting language, you are sure to benefit from this book.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780596001285?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_mobile_python_rapid_prototyping_of_applications_on_the_mobile_platform">
+<title>Mobile Python: Rapid Prototyping of Applications on the Mobile Platform</title>
+<simpara><emphasis>Wiley</emphasis>
+<emphasis>By Jürgen Scheible &amp; Ville Tuulos</emphasis>
+<emphasis>ISBN: 9780470515051</emphasis>
+<emphasis>December 2007</emphasis>
+<emphasis>$55.00 US</emphasis>
+<emphasis>348 pages</emphasis></simpara>
+<simpara>This practical hands-on book teaches you how to realize your application ideas on the Symbian OS. Programming on the Symbian mobile platform has been difficult and time consuming in the past.  This innovative new title will remedy this problem. Chapters deal with topics that are based on Python S60 features and that are presented in an order that lets the user learn the “simple to code” techniques first, followed with more complexity.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780470515051?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_text_processing_in_python">
+<title>Text Processing in Python</title>
+<simpara><emphasis>Addison-Wesley Professional</emphasis>
+<emphasis>By David Mertz</emphasis>
+<emphasis>ISBN: 9780321112545</emphasis>
+<emphasis>June 2003</emphasis>
+<emphasis>$54.99 US</emphasis>
+<emphasis>544 pages</emphasis></simpara>
+<simpara>This book is an example-driven, hands-on tutorial that carefully teaches you how to accomplish numerous text processing tasks using the Python language. This book provides effective solutions to specific text processing problems and practical strategies for dealing with all types of text processing challenges. In addition, exercises throughout the book provide readers with further opportunity to hone their skills either on their own or in the classroom.</simpara>
+<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/python/9780321112545?cid=1107-bibilio-python-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_mongodb_and_python">
+<title>MongoDB and Python</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>Forthcoming</emphasis></simpara>
+</sect1>
+<sect1 id="_scipy_and_numpy_up_and_running">
+<title>SciPy and NumPy: Up and Running</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis>
+<emphasis>Forthcoming</emphasis></simpara>
+</sect1>
+</chapter>
 </book>
