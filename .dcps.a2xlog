@@ -14,6 +14,9 @@ asciidoc: book.asc: line 2: macro redefinition:
 asciidoc: book.asc: line 2: macro redefinition: #
 asciidoc: writing: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311834current/book.dcpsgen.xml
 asciidoc: book.asc: line 2: evaluating: {include:/work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311834current/book-docinfo.xml}
-asciidoc: book.asc: line 8: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311834current/preface.asc
-asciidoc: book.asc: line 10: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311834current/chapter_skeleton.asc
-Wed Jul  6 11:22:11 EDT 2011
+asciidoc: WARNING: book.asc: line 8: include file not found: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311834current/python_introduction.asc
+asciidoc: WARNING: book.asc: line 10: include file not found: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311834current/python_chapter1.asc
+asciidoc: WARNING: book.asc: line 12: include file not found: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311834current/python_chapter2.asc
+asciidoc: WARNING: book.asc: line 14: include file not found: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311834current/python_chapter3.asc
+asciidoc: WARNING: book.asc: line 16: include file not found: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311834current/python_chapter4.asc
+Fri Jul  8 14:24:07 EDT 2011
