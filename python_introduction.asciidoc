@@ -1,6 +1,6 @@
 == Introduction
 
-Twenty years ago, Guido van Rossum was hard at work on the first release of Python. A lot has changed in those twenty years. Many of the programming languages that were contemporaries of Python have started showing their age. Meanwhile there have been no shortages of new programming languages. However, Python continues to hold up well. Its emphasis on clean syntax and its melding of object-oriented and functional programming elements put it years ahead of the other popular languages from the '90s. 
+Twenty years ago, Guido van Rossum was hard at work on the first release of Python. A lot has changed in those twenty years. Many of the programming languages that were contemporaries of Python have started showing their age. Meanwhile there have been no shortages of new programming languages. However, Python continues to hold up well. Its emphasis on clean syntax and its melding of object-oriented and functional programming elements put it years ahead of the other popular languages from the 1990s. 
 
 The story of Python is not just about it being ahead of its time in terms of syntax and features. It is also about its open development and the community around it. Its value as a scripting language is well known, and it ships with many operating systems. For years Python has been one of the P’s in the LAMP stack used for numerous web applications. Indeed Python’s popularity with web developers has lead to a multitude of web application frameworks written in Python: Django, TurboGears, Pylons, CherryPy, etc. 
 
