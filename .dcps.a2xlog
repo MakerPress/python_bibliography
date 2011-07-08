@@ -19,4 +19,4 @@ asciidoc: book.asc: line 10: reading: /work/tools/svn_hooks/checkouts/externalau
 asciidoc: book.asc: line 12: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311834current/python_chapter2.asciidoc
 asciidoc: book.asc: line 14: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311834current/python_chapter3.asciidoc
 asciidoc: book.asc: line 16: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311834current/python_chapter4.asciidoc
-Fri Jul  8 15:18:24 EDT 2011
+Fri Jul  8 15:50:59 EDT 2011
